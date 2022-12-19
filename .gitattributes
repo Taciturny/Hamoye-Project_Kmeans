@@ -1,0 +1,4 @@
+Fake_News_SVC.pickle filter=lfs diff=lfs merge=lfs -text
+tfidfvect2.pkl filter=lfs diff=lfs merge=lfs -text
+train.csv filter=lfs diff=lfs merge=lfs -text
+test.csv filter=lfs diff=lfs merge=lfs -text
