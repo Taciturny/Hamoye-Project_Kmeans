@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from flask import Flask, render_template, request, jsonify
 import nltk
 import pickle
@@ -161,4 +160,3 @@ def api():
 
 if __name__ == "__main__":
     app.run()
->>>>>>> 0652d11fbeb4c9049c1a63d7c439c6e7686f5cd5
